@@ -1,16 +1,22 @@
 ## Hi there 👋
 
 <!--
-**WareeshaAnjum/WareeshaAnjum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Wareesha 👋
 
-Here are some ideas to get you started:
+Final-year B.Tech CSE (Data Science & AI) student at Integral University,
+building full-stack web apps with the MERN stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### What I'm working on
+- 🛒 **[SoftproInnovation](https://github.com/WareeshaAnjum/SoftproInnovation)**: MERN e-commerce platform for electronics and robotics components (built during my internship at Softpro India)
+- 🏠 **PG Management**: a SaaS for PG/hostel owners to track rent, electricity meter readings, tenants and complaints, replacing notebook-based record keeping
+- 📰 **Fake news detection**: my final year project (in progress)
+
+### Tech I use
+JavaScript · React · Node.js · Express · MongoDB · Bootstrap · SQL · Axios
+
+### Currently learning
+Deepening backend and database skills (Node.js, MongoDB, SQL)
+
+### Reach me
+📫 [LinkedIn](www.linkedin.com/in/wareesha-anjum) · ✉️ your-professional-email
 -->
