@@ -18,5 +18,5 @@ JavaScript · React · Node.js · Express · MongoDB · Bootstrap · SQL · Axio
 Deepening backend and database skills (Node.js, MongoDB, SQL)
 
 ### Reach me
-📫 [LinkedIn](www.linkedin.com/in/wareesha-anjum) · ✉️ your-professional-email
+📫 [LinkedIn] www.linkedin.com/in/wareesha-anjum  ✉️
 -->
