@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 ## Hi, I'm Wareesha 👋
 
 Final-year B.Tech CSE (Data Science & AI) student at Integral University,
@@ -19,4 +16,3 @@ Deepening backend and database skills (Node.js, MongoDB, SQL)
 
 ### Reach me
 📫 [LinkedIn] www.linkedin.com/in/wareesha-anjum  ✉️
--->
